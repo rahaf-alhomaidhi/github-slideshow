@@ -2,5 +2,5 @@
 layout: slide
 title: "welcome to our second slide!"
 ---
-your text
+"float like a butterfly, sting like a bee" - muhammed Ali
 use the left arrow to go back!
